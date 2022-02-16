@@ -71,10 +71,10 @@ Photo courtesy to Leah Van Blaricom.
 10.  Carefully, using the spatula, fold the other side of the egg over
     the cheese side.
 
-    -   NOTE: There is a possibility the egg will break while folding it
-        over. Don't worry, it will still taste great- it just may not be
-        as pretty!
+       -   NOTE: There is a possibility the egg will break while folding it over. Don't worry, it will still taste great- it just may not be  as pretty!
+  
 
+  
 11. Turn off the heat and let sit for one minute.
 
 ### Enjoy

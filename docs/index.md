@@ -3,4 +3,4 @@
 - [Vegan French Toast](armando/veganfrenchtoast.md)
 - [Vegan Egg Scramble](armando/veganeggscramble.md)
 - [Tater Tot Casserole](mom/tatercassserole.md)
-- [Omlette](mom/omelette.md)
+- [Omelette](mom/omelette.md)
