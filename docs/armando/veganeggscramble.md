@@ -1,15 +1,15 @@
 
-## Vegan Egg Scramble
-
-Photo courtesy of [The New York
-Times.](https://cooking.nytimes.com/recipes/1016534-scrambled-peppers-and-eggs)
+# Vegan Egg Scramble
 
 An egg scramble is the perfect breakfast food to keep you energized and
 satiated all morning! This egg scramble is adapted to be vegan.
 
 ![](../images/media/scramble.jpg)
+Photo courtesy of [The New York
+Times.](https://cooking.nytimes.com/recipes/1016534-scrambled-peppers-and-eggs)
 
-### Tools: 
+
+## Tools: 
 
 -   Skillet (found in the drawer under the oven)
 
@@ -21,7 +21,7 @@ satiated all morning! This egg scramble is adapted to be vegan.
 
 -   Toaster (found on the kitchen counter next to the refrigerator)
 
-### Ingredients:
+## Ingredients:
 
 -   JUST Egg (6 tbsp)
 
@@ -37,9 +37,9 @@ satiated all morning! This egg scramble is adapted to be vegan.
 
 -   Earth Balance butter
 
-### Directions: 
+## Directions: 
 
-#### *Preparation:* 
+### *Preparation:* 
 
 1. Dice ¼ of an onion.
 
@@ -51,7 +51,7 @@ satiated all morning! This egg scramble is adapted to be vegan.
 
 -   Slice chives.
 
-#### *Cook:*
+### *Cook:*
 
 1. Place the skillet on the stove on medium heat.
 
@@ -76,7 +76,7 @@ satiated all morning! This egg scramble is adapted to be vegan.
 
 9. Plate the egg scramble and toast.
 
-#### *Enjoy:*
+### *Enjoy:*
 
 1. Season the egg scramble with chives, salt and pepper to taste. Add
     Earth Balance butter to the toast.
