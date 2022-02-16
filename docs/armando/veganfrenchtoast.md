@@ -1,18 +1,15 @@
 
-## Vegan French Toast Recipe 
+# Vegan French Toast Recipe 
 
-Adapted from this
-[McCormick](https://www.mccormick.com/recipes/breakfast-brunch/quick-and-easy-french-toast)
-recipe, photo courtesy of [Add a
-Pinch.](https://addapinch.com/perfect-french-toast-recipe/)
-
-![](../images/media/frenchtoast.jpg)
-
-This French toast recipe is one I make all the time with my family but
-adapted to be vegan! This should be an easy recipe to make, and it is an
+This French toast recipe is one I make all the time with my family but adapted to be vegan! This should be an easy recipe to make, and it is an
 American favorite!
 
-### Tools: 
+![](../images/media/frenchtoast.jpg)
+Photo courtesy of [Add a
+Pinch.](https://addapinch.com/perfect-french-toast-recipe/)
+
+
+## Tools: 
 
 -   Electric fry pan (found in the cabinet next to the fridge)
 
@@ -22,7 +19,7 @@ American favorite!
 
 -   Pam cooking spray (found in the cabinet above the stove)
 
-### Ingredients: 
+## Ingredients: 
 
 -   Dave's Killer bread (4 slices)
 
@@ -38,16 +35,16 @@ American favorite!
 
 -   Earth balance butter
 
-### Directions: 
+## Directions: 
 
-#### *Preparation:* 
+### *Preparation:* 
 
 1. Plug in and preheat the electric fry pan to 350 degrees.
 
 2. Mix JUST egg, almond milk, vanilla extract, ground cinnamon in the
     mixing bowl.
 
-#### *Cook:*
+### *Cook:*
 
 3. Spray the electric fry pan with Pam.
 
@@ -66,10 +63,11 @@ American favorite!
 
     -   NOTE: Feel free to cook multiple slices of bread at once.
 
-#### *Enjoy:*
+### *Enjoy:*
 
 1. Plate the French toast and top with maple syrup and a pat of earth
     balance butter.
 
 2. Enjoy!
 
+{% include footer.md %}

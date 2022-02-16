@@ -82,3 +82,5 @@ Times.](https://cooking.nytimes.com/recipes/1016534-scrambled-peppers-and-eggs)
     Earth Balance butter to the toast.
 
 2. Enjoy!
+
+{% include footer.md %}

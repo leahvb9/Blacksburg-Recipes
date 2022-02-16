@@ -4,6 +4,8 @@ Tater tot breakfast casserole is easy to make and feeds a lot of people.
 It is a staple in Blacksburg for game days!
 
 ![](../images/media/tatertotcasserole.jpg)
+Photo courtesy of [Plain Chicken](https://www.plainchicken.com/sausage-cream-cheese-tater-tot-breakfast-casserole/).
+
 ## Tools:
 
 -   Skillet (found in the drawer under the oven)
@@ -95,4 +97,4 @@ It is a staple in Blacksburg for game days!
 
 2.  Cut into squares and enjoy!
 
-S
+{% include footer.md %}
