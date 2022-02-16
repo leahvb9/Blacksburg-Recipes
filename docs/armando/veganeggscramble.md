@@ -7,7 +7,7 @@ Times.](https://cooking.nytimes.com/recipes/1016534-scrambled-peppers-and-eggs)
 An egg scramble is the perfect breakfast food to keep you energized and
 satiated all morning! This egg scramble is adapted to be vegan.
 
-![](../images/media/omelette.jpg)
+![](../images/media/scramble.jpg)
 
 ### Tools: 
 
