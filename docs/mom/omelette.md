@@ -3,8 +3,8 @@
 
 An omelette is an easy breakfast food to make and is packed with protein. This breakfast is quick, easy, and will keep you full all day!
 
-![](../images/media/omelette.jpg)
-Photo courtesy to Leah Van Blaricom.
+![](../images/media/omelettepic.jpeg)
+Photo courtesy to [Weelicious](https://weelicious.com/cheese-omelette/).
 
 ## Tools: 
 
