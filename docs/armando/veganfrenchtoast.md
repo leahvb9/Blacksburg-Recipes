@@ -70,4 +70,4 @@ Pinch.](https://addapinch.com/perfect-french-toast-recipe/)
 
 2. Enjoy!
 
-{% include footer.html %}
+Back to [the home page](../index.html)
