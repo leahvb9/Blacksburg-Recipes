@@ -83,4 +83,4 @@ Photo courtesy to [Weelicious](https://weelicious.com/cheese-omelette/).
 
 2. Enjoy!
 
-{% include footer.md %}
+{% include footer.html %}

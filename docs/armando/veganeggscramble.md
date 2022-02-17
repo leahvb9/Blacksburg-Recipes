@@ -83,4 +83,4 @@ Times.](https://cooking.nytimes.com/recipes/1016534-scrambled-peppers-and-eggs)
 
 2. Enjoy!
 
-{% include footer.md %}
+{% include footer.html %}

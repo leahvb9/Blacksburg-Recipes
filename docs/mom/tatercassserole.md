@@ -97,4 +97,4 @@ Photo courtesy of [Plain Chicken](https://www.plainchicken.com/sausage-cream-che
 
 2.  Cut into squares and enjoy!
 
-{% include footer.md %}
+{% include footer.html %}
